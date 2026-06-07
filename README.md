@@ -78,12 +78,18 @@ zomato_analysis/
 - Wrote and ran 8 business questions as SQL queries
 - Saved all query results as CSV files for Power BI
 
-### Power BI Dashboard (3 pages)
-- **Page 1 — Overview:** KPI cards, restaurant count by location, online order split
-- **Page 2 — Location Analysis:** Avg rating by location, scatter plot (cost vs rating vs size), location slicer
-- **Page 3 — Cuisine Performance:** Top cuisines, restaurant type breakdown, budget gems table, table booking impact
+## 📊 Power BI Dashboard
 
----
+### Dashboard Preview
+
+**Page 1 — Overview**
+![Overview](powerbi/page1_overview..png)
+
+**Page 2 — Location Analysis**
+![Location Analysis](powerbi/page2_location_analysis.png)
+
+**Page 3 — Cuisine Performance**
+![Cuisine Performance](powerbi/page3_cuisine_performance.png)
 
 ## 💡 Key Findings
 
