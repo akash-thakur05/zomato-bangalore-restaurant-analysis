@@ -1,0 +1,11 @@
+rest_type,avg_cost,avg_rating,total
+Fine Dining,2708.0,4.15,346
+Lounge,1694.0,3.9,396
+"Bar, Casual Dining",1334.0,4.1,425
+"Pub, Casual Dining",1261.0,4.06,255
+Bar,1254.0,3.74,697
+Pub,1243.0,3.97,357
+"Casual Dining, Bar",1237.0,4.06,1154
+"Casual Dining, Cafe",908.0,4.19,319
+Casual Dining,789.0,3.74,10330
+Cafe,617.0,3.83,3732
