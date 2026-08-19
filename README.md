@@ -1,4 +1,4 @@
-# 🍽️ Project 4: Zomato Bangalore Restaurant Performance Analysis
+🍽️ Project 4: Zomato Bangalore Restaurant Performance Analysis
 
 ## 📌 Project Overview
 
